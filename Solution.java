@@ -2,6 +2,15 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
+/*
+
+sample input:
+1
+8
+7 4 4 3 2 1 1 1
+
+*/
+
 public class Solution {
 
 	public static void main(String[] args) {
